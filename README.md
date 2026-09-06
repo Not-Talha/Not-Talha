@@ -1,6 +1,6 @@
 # Hi, I'm Not Talha
 
-### A passionate developer from around the world
+### A developer with questionable coding practices and even worse humour
 
 
 
